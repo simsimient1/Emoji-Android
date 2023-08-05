@@ -1,5 +1,5 @@
 # Emoji-Android
-Emoji Droid of Make in Emoji
+Emoji Droid of Make in Emoji [Discord Nitro]
 
 Credits:
 
